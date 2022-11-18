@@ -1,0 +1,16 @@
+A)
+
+Gradiente: #21  0.37799 0.511962 -0.330144 0.167464
+
+Gradiente conjugado: #4  0.37799 0.511962 -0.330144 0.167464
+
+Gauss: #11 0.37799 0.511962 -0.330144 0.167464
+
+
+B)
+
+Gradiente: Divergiu
+
+Gradiente conjugado: #4  1.9988 0.9991 -2.9997 -1.9992
+
+Gauss: Divergiu

@@ -7,7 +7,7 @@ Gradiente conjugado: #4  0.37799 0.511962 -0.330144 0.167464
 Gauss: #11 0.37799 0.511962 -0.330144 0.167464
 
 
-B)
+C)
 
 Gradiente: Divergiu
 
